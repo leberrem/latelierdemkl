@@ -76,7 +76,7 @@
   .u-section-1 .u-group-1 {
     width: 731px;
     margin-top: -527px;
-    margin-left: calc(((100% - 940px) / 2)  + 79px);
+    margin-left: auto;
     height: auto;
   }
 }
@@ -121,7 +121,7 @@
   .u-section-1 .u-group-1 {
     width: 450px;
     margin-top: -661px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: auto;
   }
 }
 
@@ -918,7 +918,7 @@
 .u-section-5 .u-text-1 {
   font-weight: 400;
   font-size: 3rem;
-  margin: -111px auto 0;
+  margin: 20px auto 0;
 }
 
 .u-section-5 .u-text-2 {
